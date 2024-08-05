@@ -43,4 +43,5 @@ int main(){
     findMin(arr, n,i,mini);
     cout << "maximum number is:" << maxi << endl;
     cout << "minimum number is:" << mini << endl;
+    ab
 }
